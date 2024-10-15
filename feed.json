@@ -9,5 +9,19 @@
         "name": "XYZ"
     },
     "items": [
+        {
+            "id": "https://XYZ.github.io/xyz.html",
+            "url": "https://XYZ.github.io/xyz.html",
+            "title": "XYZ",
+            "summary": "Who xxxx",
+            "content_html": "<h1 id=\"who\">Who</h1>\n<p>xxxx</p>",
+            "author": {
+                "name": "XYZ"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-15T22:23:52+08:00",
+            "date_modified": "2024-10-15T22:23:52+08:00"
+        }
     ]
 }

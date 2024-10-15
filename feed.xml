@@ -3,10 +3,31 @@
     <title>XYZ</title>
     <link href="https://XYZ.github.io/feed.xml" rel="self" />
     <link href="https://XYZ.github.io" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2024-10-15T22:23:52+08:00</updated>
     <author>
         <name>XYZ</name>
     </author>
     <id>https://XYZ.github.io</id>
 
+    <entry>
+        <title>XYZ</title>
+        <author>
+            <name>XYZ</name>
+        </author>
+        <link href="https://XYZ.github.io/xyz.html"/>
+        <id>https://XYZ.github.io/xyz.html</id>
+
+        <updated>2024-10-15T22:23:52+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Who xxxx
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1 id="who">Who</h1>
+<p>xxxx</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
