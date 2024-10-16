@@ -23,14 +23,14 @@
             <summary>
                 <![CDATA[
                         <img src="https://xyz-fbw.github.io/media/posts/7/v2-d2dccaf02804d261acfec44a726935e3_1440w.png" alt="" />
-                    简介 最近一直在使用Debian12的Xfce桌面，在看Wiki的时候知道了桌面管理器这个桌面高效率的神器，最近试用了一下，下面我就用这台电脑讲解一下我安装和美化i3-wm的经历。 Debian12的安装 我不会用命令行安装Debian12的live版本，所以就使用耗时较长的netinst版本进行安装。 正常引导并进入，正常选择即可。在选择镜像源的时候建议选择清华的，我多次安装只有清华源每次都正常。 选择完软件源后就会出现桌面选择的界面，这里只选择最后一项，也就是标准系统工具即可。 在进入本地系统后就是类似于终端的界面，这里用户名填root，密码就是你自己设置的管理员密码，并非用户密码。 所需要的软件有： sudo（普通用户调用管理员权限） lightdm （登录管理器） i3（i3的所有软件包，只想要窗口管理器的可以选择i3-wm） Thunar / ranger（文件管理器，thunar是图形界面，ranger是命令行，自行选择即可） xfce4-terminal / Alacritty （都为终端，xfce4-terminal具有图形界面，自行选择即可） rofi（图形化drun）&hellip;
+                    简介 最近一直在使用Debian12的Xfce桌面，在看Wiki的时候知道了桌面管理器这个桌面高效率的神器，最近试用了一下，下面我就用这台电脑讲解一下我安装和美化i3-wm的经历。 Debian12的安装 我不会用命令行安装Debian12的live版本，所以就使用耗时较长的netinst版本进行安装。 正常引导并进入，正常选择即可。在选择镜像源的时候建议选择清华的，我多次安装只有清华源每次都正常。 选择完软件源后就会出现桌面选择的界面，这里只选择最后一项，也就是标准系统工具即可。 在进入本地系统后就是类似于终端的界面，这里用户名填root，密码就是你自己设置的管理员密码，并非用户密码。 所需要的软件有： sudo（普通用户调用管理员权限） lightdm （登录管理器） i3（i3的所有软件包，只想要窗口管理器的可以选择i3-wm）&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://xyz-fbw.github.io/media/posts/7/v2-d2dccaf02804d261acfec44a726935e3_1440w.png" class="type:primaryImage" alt="" /></p>
                 <h1>简介</h1>
-<p>最近一直在使用Debian12的Xfce桌面，在看Wiki的时候知道了桌面管理器这个桌面高效率的神器，最近试用了一下，下面我就用这台电脑讲解一下我安装和美化i3-wm的经历。<figure class="post__image"><img loading="lazy"  src="https://xyz-fbw.github.io/media/posts/7/v2-d2dccaf02804d261acfec44a726935e3_720w.png" alt="" width="720" height="405" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://xyz-fbw.github.io/media/posts/7/responsive/v2-d2dccaf02804d261acfec44a726935e3_720w-xs.png 300w ,https://xyz-fbw.github.io/media/posts/7/responsive/v2-d2dccaf02804d261acfec44a726935e3_720w-sm.png 480w ,https://xyz-fbw.github.io/media/posts/7/responsive/v2-d2dccaf02804d261acfec44a726935e3_720w-md.png 768w"></figure>
+<p>最近一直在使用Debian12的Xfce桌面，在看Wiki的时候知道了桌面管理器这个桌面高效率的神器，最近试用了一下，下面我就用这台电脑讲解一下我安装和美化i3-wm的经历。<figure class="post__image"><img loading="lazy"  src="https://xyz-fbw.github.io/media/posts/7/v2-d2dccaf02804d261acfec44a726935e3_720w.png" alt="" width="720" height="405" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://xyz-fbw.github.io/media/posts/7/responsive/v2-d2dccaf02804d261acfec44a726935e3_720w-xs.png 300w ,https://xyz-fbw.github.io/media/posts/7/responsive/v2-d2dccaf02804d261acfec44a726935e3_720w-sm.png 480w ,https://xyz-fbw.github.io/media/posts/7/responsive/v2-d2dccaf02804d261acfec44a726935e3_720w-md.png 768w ,https://xyz-fbw.github.io/media/posts/7/responsive/v2-d2dccaf02804d261acfec44a726935e3_720w-lg.png 1024w"></figure>
 <h1>Debian12的安装</h1>
 <p>我不会用命令行安装Debian12的live版本，所以就使用耗时较长的netinst版本进行安装。</p>
 <h1>镜像下载与写入</h1>
@@ -115,7 +115,7 @@
 <pre><code class="language-text">./home/username/.config/i3/config</code></pre>
 </div>
 <p data-pid="BktdMUup">username位置填自己的用户名即可。<strong><i>.config是隐藏文件夹，用Ctrl+H键显示。</i></strong></p>
-<figure class="post__image"><img loading="lazy"  src="https://xyz-fbw.github.io/media/posts/7/1-3.png" alt="" width="666" height="719" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://xyz-fbw.github.io/media/posts/7/responsive/1-3-xs.png 300w ,https://xyz-fbw.github.io/media/posts/7/responsive/1-3-sm.png 480w ,https://xyz-fbw.github.io/media/posts/7/responsive/1-3-md.png 768w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://xyz-fbw.github.io/media/posts/7/1-3.png" alt="" width="666" height="719" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://xyz-fbw.github.io/media/posts/7/responsive/1-3-xs.png 300w ,https://xyz-fbw.github.io/media/posts/7/responsive/1-3-sm.png 480w ,https://xyz-fbw.github.io/media/posts/7/responsive/1-3-md.png 768w ,https://xyz-fbw.github.io/media/posts/7/responsive/1-3-lg.png 1024w"></figure>
 <div class="Editable-unstyled" data-block="true" data-editor="4afeu" data-offset-key="fto88-0-0">
 <div data-offset-key="fto88-0-0">
 <p data-pid="fW0BZmGt">将这几条添加进去即可</p>
@@ -135,7 +135,7 @@ gaps outer 6</code></pre>
 </div>
 <div class="Editable-unstyled" data-block="true" data-editor="4afeu" data-offset-key="43im-0-0">
 <div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="43im-0-0"><span data-offset-key="43im-0-0">更改dmenu</span></div>
-<div data-offset-key="43im-0-0"><figure class="post__image"><img loading="lazy"  src="https://xyz-fbw.github.io/media/posts/7/2.png" alt="" width="720" height="40" sizes="(max-width: 48em) 100vw, 100vw" srcset="https://xyz-fbw.github.io/media/posts/7/responsive/2-xs.png 300w ,https://xyz-fbw.github.io/media/posts/7/responsive/2-sm.png 480w ,https://xyz-fbw.github.io/media/posts/7/responsive/2-md.png 768w"></figure></div>
+<div data-offset-key="43im-0-0"><figure class="post__image"><img loading="lazy"  src="https://xyz-fbw.github.io/media/posts/7/2.png" alt="" width="720" height="40" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://xyz-fbw.github.io/media/posts/7/responsive/2-xs.png 300w ,https://xyz-fbw.github.io/media/posts/7/responsive/2-sm.png 480w ,https://xyz-fbw.github.io/media/posts/7/responsive/2-md.png 768w ,https://xyz-fbw.github.io/media/posts/7/responsive/2-lg.png 1024w"></figure></div>
 <div data-offset-key="43im-0-0">
 <div class="Editable-unstyled" data-block="true" data-editor="4afeu" data-offset-key="62ndv-0-0">
 <div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="62ndv-0-0"><span data-offset-key="62ndv-0-0">mod + Shift + R 重启 i3 </span></div>

@@ -4,36 +4,33 @@ let lastScrollPosition;
 const header = document.getElementById("js-header");
 const stickyMenu = document.getElementById("js-navbar-menu");
 
-if (header) {
-    window.addEventListener('scroll', () => {
-        lastScrollPosition = window.scrollY;
+window.addEventListener('scroll', () => {
+    lastScrollPosition = window.scrollY;
 
-        // Scrolling down
-        if (newScrollPosition < lastScrollPosition && lastScrollPosition > 80) {
-            header.classList.remove("is-visible");
-            header.classList.add("is-hidden");
+    // Scrolling down
+    if (newScrollPosition < lastScrollPosition && lastScrollPosition > 90) {
+        header.classList.remove("is-visible");
+        header.classList.add("is-hidden");
 
         // Scrolling up
-        } else if (newScrollPosition > lastScrollPosition) {
-            header.classList.remove("is-hidden");
-            header.classList.add("is-visible");
-            if (stickyMenu) {
-                stickyMenu.classList.add("is-sticky");
-            }
+    } else if (newScrollPosition > lastScrollPosition && lastScrollPosition > 89) {
+        header.classList.remove("is-hidden");
+        header.classList.add("is-visible");
+        if (stickyMenu) {
+            stickyMenu.classList.add("is-sticky");
         }
+    }
 
-        if (lastScrollPosition < 1) {
-            header.classList.remove("is-visible");
+    if (lastScrollPosition < 1) {
+        header.classList.remove("is-visible");
 
-            if (stickyMenu) {
-                stickyMenu.classList.remove("is-sticky");
-            }
+        if (stickyMenu) {
+            stickyMenu.classList.remove("is-sticky");
         }
+    }
 
-        newScrollPosition = lastScrollPosition;
-    });
-}
-
+    newScrollPosition = lastScrollPosition;
+});
 
 
 // Dropdown menu
@@ -465,7 +462,6 @@ if (header) {
     init();
 })(window.publiiThemeMenuConfig);
 
-
 // Share buttons pop-up
 (function () {
     // share popup
@@ -538,13 +534,12 @@ if (header) {
     }
 })();
 
-
 // Load search input area
 const searchButton = document.querySelector('.js-search-btn');
 const searchOverlay = document.querySelector('.js-search-overlay');
 const searchInput = document.querySelector('[type="search"]');
 
-if (searchButton && searchOverlay) {
+if (searchButton) {
     searchButton.addEventListener('click', (e) => {
         e.stopPropagation();
         searchOverlay.classList.toggle('expanded');
@@ -566,6 +561,7 @@ if (searchButton && searchOverlay) {
         searchOverlay.classList.remove('expanded');
     });
 }
+
 
 // Responsive embeds script
 (function () {
