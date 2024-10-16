@@ -3,7 +3,7 @@
     <title>XYZ‘s Blog</title>
     <link href="https://xyz-fbw.github.io/feed.xml" rel="self" />
     <link href="https://xyz-fbw.github.io" />
-    <updated>2024-10-16T22:53:59+08:00</updated>
+    <updated>2024-10-17T01:11:08+08:00</updated>
     <author>
         <name>XYZ</name>
     </author>
@@ -146,7 +146,7 @@ gaps outer 6</code></pre>
 <div class="Editable-unstyled" data-block="true" data-editor="4afeu" data-offset-key="44nv-0-0"> </div>
 <div class="Editable-unstyled" data-block="true" data-editor="4afeu" data-offset-key="cn5m9-0-0">
 <div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="cn5m9-0-0">
-<p data-pid="gKNhqjC-">picom配置透明窗口，渐变动画</p>
+<p data-pid="gKNhqjC-">picom窗口合成器配置透明窗口和渐变动画</p>
 <p data-pid="OzMG_F4_">文件位置（如果没有新建即可）：</p>
 <div class="highlight">
 <pre><code class="language-text">./home/username/.config/picom.conf</code></pre>
