@@ -3,14 +3,14 @@
     <title>The Blog Of XYZ</title>
     <link href="https://xyz-fbw.github.io/feed.xml" rel="self" />
     <link href="https://xyz-fbw.github.io" />
-    <updated>2024-10-17T22:18:40+08:00</updated>
+    <updated>2024-10-17T22:19:17+08:00</updated>
     <author>
         <name>XYZ</name>
     </author>
     <id>https://xyz-fbw.github.io</id>
 
     <entry>
-        <title>Debian12+i3-wm</title>
+        <title>Debian12 + i3-wm</title>
         <author>
             <name>XYZ</name>
         </author>
