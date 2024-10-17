@@ -3,7 +3,7 @@
     <title>The Blog Of XYZ</title>
     <link href="https://xyz-fbw.github.io/feed.xml" rel="self" />
     <link href="https://xyz-fbw.github.io" />
-    <updated>2024-10-17T17:41:36+08:00</updated>
+    <updated>2024-10-17T17:50:03+08:00</updated>
     <author>
         <name>XYZ</name>
     </author>
@@ -32,9 +32,10 @@
                 <h1>简介</h1>
 <p>最近一直在使用Debian12的Xfce桌面，在看Wiki的时候知道了桌面管理器这个桌面高效率的神器，最近试用了一下，下面我就用这台电脑讲解一下我安装和美化i3-wm的经历。<figure class="post__image"><img loading="lazy"  src="https://xyz-fbw.github.io/media/posts/7/v2-d2dccaf02804d261acfec44a726935e3_720w.png" alt="" width="720" height="405" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://xyz-fbw.github.io/media/posts/7/responsive/v2-d2dccaf02804d261acfec44a726935e3_720w-xs.png 300w ,https://xyz-fbw.github.io/media/posts/7/responsive/v2-d2dccaf02804d261acfec44a726935e3_720w-sm.png 480w ,https://xyz-fbw.github.io/media/posts/7/responsive/v2-d2dccaf02804d261acfec44a726935e3_720w-md.png 768w ,https://xyz-fbw.github.io/media/posts/7/responsive/v2-d2dccaf02804d261acfec44a726935e3_720w-lg.png 1024w"></figure>
 <h1> </h1>
-<h1>Debian12的安装</h1>
+<h3>Debian12的安装</h3>
 <p>我不会用命令行安装Debian12的live版本，所以就使用耗时较长的netinst版本进行安装。</p>
-<h1>镜像下载与写入</h1>
+<h1> </h1>
+<h3>镜像下载与写入</h3>
 <div class="Editable-unstyled" data-block="true" data-editor="4afeu" data-offset-key="frbqm-0-0">
 <div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="frbqm-0-0"><span data-offset-key="frbqm-0-0">点击</span><a href="https://www.debian.org/index.zh-cn.html" target="_blank" rel="noopener noreferrer"><span data-offset-key="frbqm-1-0">此链接</span></a><span data-offset-key="frbqm-2-0">即可下载镜像。</span></div>
 <div data-offset-key="frbqm-0-0"> </div>
