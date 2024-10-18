@@ -3,7 +3,7 @@
     <title>The Blog Of XYZ</title>
     <link href="https://xyz-fbw.github.io/feed.xml" rel="self" />
     <link href="https://xyz-fbw.github.io" />
-    <updated>2024-10-18T19:01:27+08:00</updated>
+    <updated>2024-10-18T19:22:01+08:00</updated>
     <author>
         <name>XYZ</name>
     </author>
@@ -47,18 +47,18 @@
 <div class="highlight">
 <pre><code class="language-text">sudo nano /etc/apt/sources.list</code></pre>
 </div>
-<p data-pid="g2JSKaIF">将其中软件源全部删除换成国内Debian11软件源，我选择的是<a class="RichContent-EntityWord css-b7erz1" data-za-not-track-link="true" data-paste-text="true" href="https://zhida.zhihu.com/search?content_id=237031776&amp;content_type=Article&amp;match_order=1&amp;q=%E4%B8%AD%E7%A7%91%E5%A4%A7&amp;zhida_source=entity" target="_blank" rel="noopener">中科大<svg width="10px" height="10px" viewbox="0 0 16 16" class="ZDI ZDI--FourPointedStar16 css-1dvsrp" fill="currentColor" data-darkreader-inline-fill=""><path d="m5.068 9.267-3.08-.77a.512.512 0 0 1 0-.994l3.08-.77a2.289 2.289 0 0 0 1.665-1.665l.77-3.08a.512.512 0 0 1 .994 0l.77 3.08c.205.82.845 1.46 1.665 1.665l3.08.77a.512.512 0 0 1 0 .994l-3.08.77a2.29 2.29 0 0 0-1.665 1.665l-.77 3.08a.512.512 0 0 1-.994 0l-.77-3.08a2.289 2.289 0 0 0-1.665-1.665Z"></path></svg></a>的</p>
+<p data-pid="g2JSKaIF">将其中软件源全部删除换成国内Debian11软件源，我选择的是中科大的</p>
 <div class="highlight">
-<pre><code class="language-text">deb https://mirrors.ustc.edu.cn/debian/ <a class="RichContent-EntityWord css-b7erz1" data-za-not-track-link="true" data-paste-text="true" href="https://zhida.zhihu.com/search?content_id=237031776&amp;content_type=Article&amp;match_order=1&amp;q=bullseye&amp;zhida_source=entity" target="_blank" rel="noopener">bullseye<svg width="10px" height="10px" viewbox="0 0 16 16" class="ZDI ZDI--FourPointedStar16 css-1dvsrp" fill="currentColor" data-darkreader-inline-fill=""><path d="m5.068 9.267-3.08-.77a.512.512 0 0 1 0-.994l3.08-.77a2.289 2.289 0 0 0 1.665-1.665l.77-3.08a.512.512 0 0 1 .994 0l.77 3.08c.205.82.845 1.46 1.665 1.665l3.08.77a.512.512 0 0 1 0 .994l-3.08.77a2.29 2.29 0 0 0-1.665 1.665l-.77 3.08a.512.512 0 0 1-.994 0l-.77-3.08a2.289 2.289 0 0 0-1.665-1.665Z"></path></svg></a> main contrib non-free
+<pre><code class="language-text">deb https://mirrors.ustc.edu.cn/debian/ bullseye main contrib non-free
 deb-src https://mirrors.ustc.edu.cn/debian/ bullseye main contrib non-free
 
-deb https://mirrors.ustc.edu.cn/debian/ <a class="RichContent-EntityWord css-b7erz1" data-za-not-track-link="true" data-paste-text="true" href="https://zhida.zhihu.com/search?content_id=237031776&amp;content_type=Article&amp;match_order=1&amp;q=bullseye-updates&amp;zhida_source=entity" target="_blank" rel="noopener">bullseye-updates<svg width="10px" height="10px" viewbox="0 0 16 16" class="ZDI ZDI--FourPointedStar16 css-1dvsrp" fill="currentColor" data-darkreader-inline-fill=""><path d="m5.068 9.267-3.08-.77a.512.512 0 0 1 0-.994l3.08-.77a2.289 2.289 0 0 0 1.665-1.665l.77-3.08a.512.512 0 0 1 .994 0l.77 3.08c.205.82.845 1.46 1.665 1.665l3.08.77a.512.512 0 0 1 0 .994l-3.08.77a2.29 2.29 0 0 0-1.665 1.665l-.77 3.08a.512.512 0 0 1-.994 0l-.77-3.08a2.289 2.289 0 0 0-1.665-1.665Z"></path></svg></a> main contrib non-free
+deb https://mirrors.ustc.edu.cn/debian/ bullseye-updates main contrib non-free
 deb-src https://mirrors.ustc.edu.cn/debian/ bullseye-updates main contrib non-free
 
-deb https://mirrors.ustc.edu.cn/debian/ <a class="RichContent-EntityWord css-b7erz1" data-za-not-track-link="true" data-paste-text="true" href="https://zhida.zhihu.com/search?content_id=237031776&amp;content_type=Article&amp;match_order=1&amp;q=bullseye-backports&amp;zhida_source=entity" target="_blank" rel="noopener">bullseye-backports<svg width="10px" height="10px" viewbox="0 0 16 16" class="ZDI ZDI--FourPointedStar16 css-1dvsrp" fill="currentColor" data-darkreader-inline-fill=""><path d="m5.068 9.267-3.08-.77a.512.512 0 0 1 0-.994l3.08-.77a2.289 2.289 0 0 0 1.665-1.665l.77-3.08a.512.512 0 0 1 .994 0l.77 3.08c.205.82.845 1.46 1.665 1.665l3.08.77a.512.512 0 0 1 0 .994l-3.08.77a2.29 2.29 0 0 0-1.665 1.665l-.77 3.08a.512.512 0 0 1-.994 0l-.77-3.08a2.289 2.289 0 0 0-1.665-1.665Z"></path></svg></a> main contrib non-free
+deb https://mirrors.ustc.edu.cn/debian/ bullseye-backports main contrib non-free
 deb-src https://mirrors.ustc.edu.cn/debian/ bullseye-backports main contrib non-free
 
-deb https://mirrors.ustc.edu.cn/debian-security/ <a class="RichContent-EntityWord css-b7erz1" data-za-not-track-link="true" data-paste-text="true" href="https://zhida.zhihu.com/search?content_id=237031776&amp;content_type=Article&amp;match_order=1&amp;q=bullseye-security&amp;zhida_source=entity" target="_blank" rel="noopener">bullseye-security<svg width="10px" height="10px" viewbox="0 0 16 16" class="ZDI ZDI--FourPointedStar16 css-1dvsrp" fill="currentColor" data-darkreader-inline-fill=""><path d="m5.068 9.267-3.08-.77a.512.512 0 0 1 0-.994l3.08-.77a2.289 2.289 0 0 0 1.665-1.665l.77-3.08a.512.512 0 0 1 .994 0l.77 3.08c.205.82.845 1.46 1.665 1.665l3.08.77a.512.512 0 0 1 0 .994l-3.08.77a2.29 2.29 0 0 0-1.665 1.665l-.77 3.08a.512.512 0 0 1-.994 0l-.77-3.08a2.289 2.289 0 0 0-1.665-1.665Z"></path></svg></a> main contrib non-free
+deb https://mirrors.ustc.edu.cn/debian-security/ bullseye-security main contrib non-free
 deb-src https://mirrors.ustc.edu.cn/debian-security/ bullseye-security main contrib non-free</code></pre>
 </div>
 <p data-pid="eC4ATDyQ">Ctrl+O保存后，Ctrl+X退出。重启Fyde OS。</p>
@@ -95,6 +95,10 @@ sudo apt install xfce4-terminal</code></pre>
 <figure class="post__image"><img loading="lazy"  src="https://xyz-fbw.github.io/media/posts/8/v2-48a5875189a48c58f0ebf07579f6c548_720w.png" alt="" width="636" height="683" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://xyz-fbw.github.io/media/posts/8/responsive/v2-48a5875189a48c58f0ebf07579f6c548_720w-xs.png 300w ,https://xyz-fbw.github.io/media/posts/8/responsive/v2-48a5875189a48c58f0ebf07579f6c548_720w-sm.png 480w ,https://xyz-fbw.github.io/media/posts/8/responsive/v2-48a5875189a48c58f0ebf07579f6c548_720w-md.png 768w ,https://xyz-fbw.github.io/media/posts/8/responsive/v2-48a5875189a48c58f0ebf07579f6c548_720w-lg.png 1024w"></figure>
 <h3>5.安装QQ后，关闭窗口后QQ不会退出，可以参考这个</h3>
 <h4 class="align-center"><a href="https://fydeos.com/docs/knowledge-base/linux-subsystem/linux-tray/" target="_blank" rel="noopener noreferrer"></a><a href="https://fydeos.com/docs/knowledge-base/linux-subsystem/linux-tray/" target="_blank" rel="noopener noreferrer">使用 Stalonetray 在 Linux 子系统上开启系统托盘</a></h4>
+<h3>6.更换软件源时需要注意事项</h3>
+<p>1.<strong>版本代号</strong>：例如，Debian 11的代号是bullseye，那在换软件源之前就要找到bullseye是Debian 11的代号，找到Debian 11的镜像源即可。<strong>在2024年Fyde OS更新之后，虚拟机的Debian版本变成12，也就是软件源变成了bookworm</strong>，更换的时候要注意区分。</p>
+<p>2.<strong>强制安全更新使用镜像</strong>：这个只在Debian上会出现（如下图），建议如果不是网络状况非常不好建议不要启用，一般来说镜像站不会出错或者更新缓慢（只针对清华，中科大等高校服务器，不包括华为，阿里等企业服务器），但是如果有很强的安全性要求就建议不要开启。</p>
+<figure class="post__image"><img loading="lazy"  src="https://xyz-fbw.github.io/media/posts/8/16feb477-14a9-4c8e-b03c-836555e4de7a.png" alt="" width="1664" height="971" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://xyz-fbw.github.io/media/posts/8/responsive/16feb477-14a9-4c8e-b03c-836555e4de7a-xs.png 300w ,https://xyz-fbw.github.io/media/posts/8/responsive/16feb477-14a9-4c8e-b03c-836555e4de7a-sm.png 480w ,https://xyz-fbw.github.io/media/posts/8/responsive/16feb477-14a9-4c8e-b03c-836555e4de7a-md.png 768w ,https://xyz-fbw.github.io/media/posts/8/responsive/16feb477-14a9-4c8e-b03c-836555e4de7a-lg.png 1024w"></figure>
             ]]>
         </content>
     </entry>
