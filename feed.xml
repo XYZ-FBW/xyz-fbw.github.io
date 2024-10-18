@@ -3,14 +3,14 @@
     <title>The Blog Of XYZ</title>
     <link href="https://xyz-fbw.github.io/feed.xml" rel="self" />
     <link href="https://xyz-fbw.github.io" />
-    <updated>2024-10-18T19:00:43+08:00</updated>
+    <updated>2024-10-18T19:01:27+08:00</updated>
     <author>
         <name>XYZ</name>
     </author>
     <id>https://xyz-fbw.github.io</id>
 
     <entry>
-        <title>Fyde OS Linux虚拟机使用</title>
+        <title>FydeOS Linux虚拟机使用</title>
         <author>
             <name>XYZ</name>
         </author>
