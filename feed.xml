@@ -3,14 +3,14 @@
     <title>The Blog Of XYZ</title>
     <link href="https://xyz-fbw.github.io/feed.xml" rel="self" />
     <link href="https://xyz-fbw.github.io" />
-    <updated>2024-10-19T10:52:08+08:00</updated>
+    <updated>2024-10-19T11:44:23+08:00</updated>
     <author>
         <name>XYZ</name>
     </author>
     <id>https://xyz-fbw.github.io</id>
 
     <entry>
-        <title>Ubuntu24.04.1 LTS    重命名输入框无法输入中文</title>
+        <title>Ubuntu24.04.1 LTS    重命名输入中框无法输入中文</title>
         <author>
             <name>XYZ</name>
         </author>
