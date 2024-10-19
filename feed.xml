@@ -3,7 +3,7 @@
     <title>The Blog Of XYZ</title>
     <link href="https://xyz-fbw.github.io/feed.xml" rel="self" />
     <link href="https://xyz-fbw.github.io" />
-    <updated>2024-10-19T13:52:33+08:00</updated>
+    <updated>2024-10-19T16:26:45+08:00</updated>
     <author>
         <name>XYZ</name>
     </author>
@@ -102,19 +102,19 @@ XMODIFIERS=@im=ibus</code></pre>
         </author>
         <link href="https://xyz-fbw.github.io/fyde-os-linuxxu-ni-ji-shi-yong.html"/>
         <id>https://xyz-fbw.github.io/fyde-os-linuxxu-ni-ji-shi-yong.html</id>
-        <media:content url="https://xyz-fbw.github.io/media/posts/8/v2-8fa162afd340ade844adfb3bd252b791_720w.png" medium="image" />
+        <media:content url="https://xyz-fbw.github.io/media/posts/8/v2-8fa162afd340ade844adfb3bd252b791_720w-xl-min.png" medium="image" />
             <category term="Linux"/>
 
         <updated>2024-10-18T18:58:25+08:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://xyz-fbw.github.io/media/posts/8/v2-8fa162afd340ade844adfb3bd252b791_720w.png" alt="" />
+                        <img src="https://xyz-fbw.github.io/media/posts/8/v2-8fa162afd340ade844adfb3bd252b791_720w-xl-min.png" alt="" />
                     很多国内好用多Debian系软件都在Deepin的商店中，那么在Fyde OS Debian11虚拟机如何去安装星火商店。 1.星火商店本体安装包（根据CPU架构自行选择）和依赖包 在选择分配空间是最好使用默认大小，如果需要的软件较多可以自行选择更大空间。 在虚拟机打开后会出现如下界面 此时即可安装软件，首先安装编辑软件源所需的编译器，我选择nano sudo apt install nano 然后用nano打开软件源 sudo nano /etc/apt/sources.list 将其中软件源全部删除换成国内Debian11软件源，我选择的是中科大的 deb https://mirrors.ustc.edu.cn/debian/ bullseye main&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://xyz-fbw.github.io/media/posts/8/v2-8fa162afd340ade844adfb3bd252b791_720w.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://xyz-fbw.github.io/media/posts/8/v2-8fa162afd340ade844adfb3bd252b791_720w-xl-min.png" class="type:primaryImage" alt="" /></p>
                 <p data-first-child="" data-pid="rZdPHGtL">很多国内好用多Debian系软件都在Deepin的商店中，那么在Fyde OS Debian11<a class="RichContent-EntityWord css-b7erz1" data-za-not-track-link="true" data-paste-text="true" href="https://zhida.zhihu.com/search?content_id=237031776&amp;content_type=Article&amp;match_order=1&amp;q=%E8%99%9A%E6%8B%9F%E6%9C%BA&amp;zhida_source=entity" target="_blank" rel="noopener">虚拟机<svg width="10px" height="10px" viewbox="0 0 16 16" class="ZDI ZDI--FourPointedStar16 css-1dvsrp" fill="currentColor" data-darkreader-inline-fill=""><path d="m5.068 9.267-3.08-.77a.512.512 0 0 1 0-.994l3.08-.77a2.289 2.289 0 0 0 1.665-1.665l.77-3.08a.512.512 0 0 1 .994 0l.77 3.08c.205.82.845 1.46 1.665 1.665l3.08.77a.512.512 0 0 1 0 .994l-3.08.77a2.29 2.29 0 0 0-1.665 1.665l-.77 3.08a.512.512 0 0 1-.994 0l-.77-3.08a2.289 2.289 0 0 0-1.665-1.665Z"></path></svg></a>如何去安装星火商店。</p>
 <h2>准备材料：</h2>
 <p data-pid="ubQHG5sW">1.星火商店本体<a href="https://link.zhihu.com/?target=https%3A//spark-app.store/download_latest" class=" wrap external" target="_blank" rel="nofollow noopener noreferrer" data-za-detail-view-id="1043">安装包</a>（根据CPU架构自行选择）和<a href="https://link.zhihu.com/?target=https%3A//spark-app.store/download_dependencies_latest" class=" wrap external" target="_blank" rel="nofollow noopener noreferrer" data-za-detail-view-id="1043">依赖包</a></p>
