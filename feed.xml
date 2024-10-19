@@ -3,7 +3,7 @@
     <title>The Blog Of XYZ</title>
     <link href="https://xyz-fbw.github.io/feed.xml" rel="self" />
     <link href="https://xyz-fbw.github.io" />
-    <updated>2024-10-19T13:23:22+08:00</updated>
+    <updated>2024-10-19T13:25:19+08:00</updated>
     <author>
         <name>XYZ</name>
     </author>
@@ -16,16 +16,19 @@
         </author>
         <link href="https://xyz-fbw.github.io/ps-cc-2013-an-zhuang.html"/>
         <id>https://xyz-fbw.github.io/ps-cc-2013-an-zhuang.html</id>
+        <media:content url="https://xyz-fbw.github.io/media/posts/10/Screenshot-from-2024-10-19-12-51-24-2.png" medium="image" />
             <category term="Study"/>
 
         <updated>2024-10-19T13:23:22+08:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://xyz-fbw.github.io/media/posts/10/Screenshot-from-2024-10-19-12-51-24-2.png" alt="" />
                     一、解压 用压缩工具解压压缩包，我这里使用7zip，或者WinRAR都可以，自行选择即可。 打开文件夹如图所示即可。 此文件夹相当于安装包安装过后在 Program Files 或 Program Files(x86) 里的文件夹，如果理解可以自行选择存放位置，如不熟悉，按照步骤进行即可。 将文件夹全部移入C盘的 Program Files 目录下，如要索取管理员权限，点击继续即可。 打开目录，并找到 QuickInstall(如果大小写有误忽略不计) ，点击安装按钮即可。 双击打开
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://xyz-fbw.github.io/media/posts/10/Screenshot-from-2024-10-19-12-51-24-2.png" class="type:primaryImage" alt="" /></p>
                 <h1>一、解压</h1>
 <figure class="post__image"><img loading="lazy"  src="https://xyz-fbw.github.io/media/posts/10/Screenshot-from-2024-10-19-12-48-57.png" alt="" width="1854" height="1048" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://xyz-fbw.github.io/media/posts/10/responsive/Screenshot-from-2024-10-19-12-48-57-xs.png 384w ,https://xyz-fbw.github.io/media/posts/10/responsive/Screenshot-from-2024-10-19-12-48-57-sm.png 600w ,https://xyz-fbw.github.io/media/posts/10/responsive/Screenshot-from-2024-10-19-12-48-57-md.png 768w ,https://xyz-fbw.github.io/media/posts/10/responsive/Screenshot-from-2024-10-19-12-48-57-lg.png 1200w ,https://xyz-fbw.github.io/media/posts/10/responsive/Screenshot-from-2024-10-19-12-48-57-xl.png 1600w"></figure>
 <p>用压缩工具解压压缩包，我这里使用<a href="https://www.7-zip.org/" target="_blank" rel="noopener noreferrer">7zip</a>，或者<a href="https://www.winrar.com.cn/" target="_blank" rel="noopener noreferrer">WinRAR</a>都可以，自行选择即可。</p>
