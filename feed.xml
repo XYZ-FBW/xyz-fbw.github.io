@@ -3,7 +3,7 @@
     <title>The Blog Of XYZ</title>
     <link href="https://xyz-fbw.github.io/feed.xml" rel="self" />
     <link href="https://xyz-fbw.github.io" />
-    <updated>2024-10-19T12:18:02+08:00</updated>
+    <updated>2024-10-19T12:19:01+08:00</updated>
     <author>
         <name>XYZ</name>
     </author>
@@ -162,7 +162,7 @@ sudo apt install xfce4-terminal</code></pre>
                     <p><img src="https://xyz-fbw.github.io/media/posts/7/Wei-Xin-Tu-Pian_20241019121725.jpg);" class="type:primaryImage" alt="" /></p>
                 <h1>简介</h1>
 <p>最高效率的编码使用的桌面非常不错。</p>
-<figure class="post__image"><img loading="lazy"  src="https://xyz-fbw.github.io/media/posts/7/v2-d2dccaf02804d261acfec44a726935e3_720w-3.png" alt="" width="720" height="405" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://xyz-fbw.github.io/media/posts/7/responsive/v2-d2dccaf02804d261acfec44a726935e3_720w-3-xs.png 384w ,https://xyz-fbw.github.io/media/posts/7/responsive/v2-d2dccaf02804d261acfec44a726935e3_720w-3-sm.png 600w ,https://xyz-fbw.github.io/media/posts/7/responsive/v2-d2dccaf02804d261acfec44a726935e3_720w-3-md.png 768w ,https://xyz-fbw.github.io/media/posts/7/responsive/v2-d2dccaf02804d261acfec44a726935e3_720w-3-lg.png 1200w ,https://xyz-fbw.github.io/media/posts/7/responsive/v2-d2dccaf02804d261acfec44a726935e3_720w-3-xl.png 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://xyz-fbw.github.io/media/posts/7/Wei-Xin-Tu-Pian_20241019121725-2.jpg);" alt="" width="720" height="405" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://xyz-fbw.github.io/media/posts/7/responsive/Wei-Xin-Tu-Pian_20241019121725-2-xs.jpg); 384w ,https://xyz-fbw.github.io/media/posts/7/responsive/Wei-Xin-Tu-Pian_20241019121725-2-sm.jpg); 600w ,https://xyz-fbw.github.io/media/posts/7/responsive/Wei-Xin-Tu-Pian_20241019121725-2-md.jpg); 768w ,https://xyz-fbw.github.io/media/posts/7/responsive/Wei-Xin-Tu-Pian_20241019121725-2-lg.jpg); 1200w ,https://xyz-fbw.github.io/media/posts/7/responsive/Wei-Xin-Tu-Pian_20241019121725-2-xl.jpg); 1600w"></figure>
 <h1> </h1>
 <h3>Debian12的安装</h3>
 <p>我不会用命令行安装Debian12的live版本，所以就使用耗时较长的netinst版本进行安装。</p>
