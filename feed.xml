@@ -3,7 +3,7 @@
     <title>The Blog Of XYZ</title>
     <link href="https://xyz-fbw.github.io/feed.xml" rel="self" />
     <link href="https://xyz-fbw.github.io" />
-    <updated>2024-10-19T12:26:08+08:00</updated>
+    <updated>2024-10-19T12:35:50+08:00</updated>
     <author>
         <name>XYZ</name>
     </author>
@@ -249,7 +249,7 @@ sudo apt install xfce4-terminal</code></pre>
 <pre><code class="language-text">./home/username/.config/i3/config</code></pre>
 </div>
 <p data-pid="BktdMUup">username位置填自己的用户名即可。<strong><i>.config是隐藏文件夹，用Ctrl+H键显示。</i></strong></p>
-<figure class="post__image"><img loading="lazy"  src="https://xyz-fbw.github.io/media/posts/7/v2-f56b385726061c7a2d80ae15c64943e7_720w.png" alt="" width="666" height="719" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://xyz-fbw.github.io/media/posts/7/responsive/v2-f56b385726061c7a2d80ae15c64943e7_720w-xs.png 384w ,https://xyz-fbw.github.io/media/posts/7/responsive/v2-f56b385726061c7a2d80ae15c64943e7_720w-sm.png 600w ,https://xyz-fbw.github.io/media/posts/7/responsive/v2-f56b385726061c7a2d80ae15c64943e7_720w-md.png 768w ,https://xyz-fbw.github.io/media/posts/7/responsive/v2-f56b385726061c7a2d80ae15c64943e7_720w-lg.png 1200w ,https://xyz-fbw.github.io/media/posts/7/responsive/v2-f56b385726061c7a2d80ae15c64943e7_720w-xl.png 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://xyz-fbw.github.io/media/posts/7/v2-f56b385726061c7a2d80ae15c64943e7_720w-2.png" alt="" width="666" height="719" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://xyz-fbw.github.io/media/posts/7/responsive/v2-f56b385726061c7a2d80ae15c64943e7_720w-2-xs.png 384w ,https://xyz-fbw.github.io/media/posts/7/responsive/v2-f56b385726061c7a2d80ae15c64943e7_720w-2-sm.png 600w ,https://xyz-fbw.github.io/media/posts/7/responsive/v2-f56b385726061c7a2d80ae15c64943e7_720w-2-md.png 768w ,https://xyz-fbw.github.io/media/posts/7/responsive/v2-f56b385726061c7a2d80ae15c64943e7_720w-2-lg.png 1200w ,https://xyz-fbw.github.io/media/posts/7/responsive/v2-f56b385726061c7a2d80ae15c64943e7_720w-2-xl.png 1600w"></figure>
 <div class="Editable-unstyled" data-block="true" data-editor="4afeu" data-offset-key="fto88-0-0">
 <div data-offset-key="fto88-0-0">
 <p data-pid="fW0BZmGt">将这几条添加进去即可</p>
@@ -269,7 +269,7 @@ gaps outer 6</code></pre>
 </div>
 <div class="Editable-unstyled" data-block="true" data-editor="4afeu" data-offset-key="43im-0-0">
 <div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="43im-0-0"><span data-offset-key="43im-0-0">更改dmenu</span></div>
-<div data-offset-key="43im-0-0"><figure class="post__image"><img loading="lazy"  src="https://xyz-fbw.github.io/media/posts/7/v2-85d3dbf165e53c3ed30ebee210f6c0dd_720w.png" alt="" width="720" height="40" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://xyz-fbw.github.io/media/posts/7/responsive/v2-85d3dbf165e53c3ed30ebee210f6c0dd_720w-xs.png 384w ,https://xyz-fbw.github.io/media/posts/7/responsive/v2-85d3dbf165e53c3ed30ebee210f6c0dd_720w-sm.png 600w ,https://xyz-fbw.github.io/media/posts/7/responsive/v2-85d3dbf165e53c3ed30ebee210f6c0dd_720w-md.png 768w ,https://xyz-fbw.github.io/media/posts/7/responsive/v2-85d3dbf165e53c3ed30ebee210f6c0dd_720w-lg.png 1200w ,https://xyz-fbw.github.io/media/posts/7/responsive/v2-85d3dbf165e53c3ed30ebee210f6c0dd_720w-xl.png 1600w"></figure></div>
+<div data-offset-key="43im-0-0"><figure class="post__image"><img loading="lazy"  src="https://xyz-fbw.github.io/media/posts/7/v2-85d3dbf165e53c3ed30ebee210f6c0dd_720w-2.png" alt="" width="720" height="40" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://xyz-fbw.github.io/media/posts/7/responsive/v2-85d3dbf165e53c3ed30ebee210f6c0dd_720w-2-xs.png 384w ,https://xyz-fbw.github.io/media/posts/7/responsive/v2-85d3dbf165e53c3ed30ebee210f6c0dd_720w-2-sm.png 600w ,https://xyz-fbw.github.io/media/posts/7/responsive/v2-85d3dbf165e53c3ed30ebee210f6c0dd_720w-2-md.png 768w ,https://xyz-fbw.github.io/media/posts/7/responsive/v2-85d3dbf165e53c3ed30ebee210f6c0dd_720w-2-lg.png 1200w ,https://xyz-fbw.github.io/media/posts/7/responsive/v2-85d3dbf165e53c3ed30ebee210f6c0dd_720w-2-xl.png 1600w"></figure></div>
 <div data-offset-key="43im-0-0">
 <div class="Editable-unstyled" data-block="true" data-editor="4afeu" data-offset-key="62ndv-0-0">
 <div class="public-DraftStyleDefault-block public-DraftStyleDefault-ltr" data-offset-key="62ndv-0-0"><span data-offset-key="62ndv-0-0">mod + Shift + R 重启 i3 </span></div>
