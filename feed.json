@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://xyz-fbw.github.io/ubuntu24041-lts-xiu-gai-~pam_environmentpei-zhi-wen-jian-hou-ying-xiang.html",
+            "url": "https://xyz-fbw.github.io/ubuntu24041-lts-xiu-gai-~pam_environmentpei-zhi-wen-jian-hou-ying-xiang.html",
+            "title": "Ubuntu24.04.1 LTS  修改~/.pam_environment配置文件后影响",
+            "summary": "情况描述 输入时和Rename窗口情况一致 在输入拼音选中中文后，英文字母不消失问题在Rename窗口中出现，但不影响正常使用，但是会影响到其他GTK图形界面应用，例如Text Editor Gnome Terminal，Chrome等App无法输入：在正常使用的情况下，频率大概为1天1次的情况出现，就是其他界面正常 解决方案 删除配置文件。后果：新建文件的名字在重命名时需要变为中文只能在别的地方打出来再复制。 更换所有GTK应用为QT应用。后果：依然会出现终端不能输入问题。 删除配置文件后不使用Gnome自带文件管理器，例如Ranger。后果：文件管理没有图形界面不直观。 推荐不使用中文命名的，例如写代码的（Java项目中文件名需要在程序中，所以全部英文命名）使用第一个办法 推荐喜欢终端界面管理文件的使用第三种（有些人还是喜欢递进列表形式的）",
+            "content_html": "<h1>情况描述</h1>\n<h1> </h1>\n<ul>\n<li>输入时和Rename窗口情况一致</li>\n</ul>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://xyz-fbw.github.io/media/posts/13/Screenshot-from-2024-10-20-18-45-07-2.jpg\" alt=\"\" width=\"822\" height=\"642\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://xyz-fbw.github.io/media/posts/13/responsive/Screenshot-from-2024-10-20-18-45-07-2-xs.webp 384w ,https://xyz-fbw.github.io/media/posts/13/responsive/Screenshot-from-2024-10-20-18-45-07-2-sm.webp 600w ,https://xyz-fbw.github.io/media/posts/13/responsive/Screenshot-from-2024-10-20-18-45-07-2-md.webp 768w ,https://xyz-fbw.github.io/media/posts/13/responsive/Screenshot-from-2024-10-20-18-45-07-2-lg.webp 1200w ,https://xyz-fbw.github.io/media/posts/13/responsive/Screenshot-from-2024-10-20-18-45-07-2-xl.webp 1600w\"></figure>\n<p>在输入拼音选中中文后，英文字母不消失问题在Rename窗口中出现，但不影响正常使用，但是会影响到其他GTK图形界面应用，例如Text Editor</p>\n<ul>\n<li>Gnome Terminal，Chrome等App无法输入：在正常使用的情况下，频率大概为1天1次的情况出现，就是其他界面正常</li>\n</ul>\n<h1>解决方案 <br><br></h1>\n<ul>\n<li>删除配置文件。<strong><span style=\"color: #ba372a;\">后果：新建文件的名字在重命名时需要变为中文只能在别的地方打出来再复制。</span></strong></li>\n<li>更换所有GTK应用为QT应用。<strong><span style=\"color: #ba372a;\">后果：依然会出现终端不能输入问题。</span></strong></li>\n<li>删除配置文件后不使用Gnome自带文件管理器，例如Ranger。<strong><span style=\"color: #ba372a;\">后果：文件管理没有图形界面不直观。</span></strong></li>\n</ul>\n<h3><strong>推荐不使用中文命名的，例如写代码的（Java项目中文件名需要在程序中，所以全部英文命名）使用第一个办法</strong></h3>\n<h3>推荐喜欢终端界面管理文件的使用第三种（有些人还是喜欢递进列表形式的）</h3>",
+            "image": "https://xyz-fbw.github.io/media/posts/13/Screenshot-from-2024-10-20-18-45-07.jpg",
+            "author": {
+                "name": "XYZ"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-20T19:29:09+08:00",
+            "date_modified": "2024-10-20T19:29:09+08:00"
+        },
+        {
             "id": "https://xyz-fbw.github.io/ke-ji-zhou-kan-202410-di-42zhou.html",
             "url": "https://xyz-fbw.github.io/ke-ji-zhou-kan-202410-di-42zhou.html",
             "title": "科技周刊    2024.10    第42周",
