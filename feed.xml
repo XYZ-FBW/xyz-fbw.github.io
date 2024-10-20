@@ -3,7 +3,7 @@
     <title>The Blog Of XYZ</title>
     <link href="https://xyz-fbw.github.io/feed.xml" rel="self" />
     <link href="https://xyz-fbw.github.io" />
-    <updated>2024-10-20T19:29:09+08:00</updated>
+    <updated>2024-10-20T19:31:13+08:00</updated>
     <author>
         <name>XYZ</name>
     </author>
@@ -177,7 +177,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://xyz-fbw.github.io/media/posts/9/Screenshot-from-2024-10-19-18-27-47.jpg" alt="" />
-                    例如下方场景是如下情况 方法如下 配置fctix输入法框架环境变量（个人使用vim作为文本编辑器i） sudo vim ~/.pam_environment 输入以下内容 GTK_IM_MODULE=ibus QT_IM_MODULE=ibus XMODIFIERS=@im=ibus 保存并退出。 注销或重启后即可输入中文
+                    例如下方场景是如下情况 方法如下 配置fctix输入法框架环境变量（个人使用vim作为文本编辑器i） sudo vim ~/.pam_environment 输入以下内容 GTK_IM_MODULE=ibus QT_IM_MODULE=ibus XMODIFIERS="@im=ibus" 保存并退出。 注销或重启后即可输入中文
                 ]]>
             </summary>
         <content type="html">
@@ -194,7 +194,7 @@
 <div class="highlight">
 <pre><code class="language-text">GTK_IM_MODULE=ibus
 QT_IM_MODULE=ibus
-XMODIFIERS=@im=ibus</code></pre>
+XMODIFIERS="@im=ibus"</code></pre>
 </div>
 <p data-pid="N0ZFm9oa">保存并退出。</p>
 <h1 data-pid="N0ZFm9oa"><span style="color: #ba372a;">注销或重启后即可输入中文</span></h1>
