@@ -3,7 +3,7 @@
     <title>The Blog Of XYZ</title>
     <link href="https://xyz-fbw.github.io/feed.xml" rel="self" />
     <link href="https://xyz-fbw.github.io" />
-    <updated>2024-10-20T19:31:13+08:00</updated>
+    <updated>2024-10-20T19:31:49+08:00</updated>
     <author>
         <name>XYZ</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://xyz-fbw.github.io/ubuntu24041-lts-xiu-gai-~pam_environmentpei-zhi-wen-jian-hou-ying-xiang.html"/>
         <id>https://xyz-fbw.github.io/ubuntu24041-lts-xiu-gai-~pam_environmentpei-zhi-wen-jian-hou-ying-xiang.html</id>
         <media:content url="https://xyz-fbw.github.io/media/posts/13/Screenshot-from-2024-10-20-18-45-07.jpg" medium="image" />
+            <category term="Discoveries"/>
 
         <updated>2024-10-20T19:29:09+08:00</updated>
             <summary>
