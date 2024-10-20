@@ -3,14 +3,14 @@
     <title>The Blog Of XYZ</title>
     <link href="https://xyz-fbw.github.io/feed.xml" rel="self" />
     <link href="https://xyz-fbw.github.io" />
-    <updated>2024-10-20T19:32:58+08:00</updated>
+    <updated>2024-10-20T19:33:43+08:00</updated>
     <author>
         <name>XYZ</name>
     </author>
     <id>https://xyz-fbw.github.io</id>
 
     <entry>
-        <title>Ubuntu24.04.1 LTS  修改~/.pam_environment配置文件后影响</title>
+        <title>Ubuntu24.04.1 LTS  修改~/.pam_environment配置文件后情况反馈</title>
         <author>
             <name>XYZ</name>
         </author>
