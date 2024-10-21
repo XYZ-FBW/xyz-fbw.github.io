@@ -3,7 +3,7 @@
     <title>The Blog Of XYZ</title>
     <link href="https://xyz-fbw.github.io/feed.xml" rel="self" />
     <link href="https://xyz-fbw.github.io" />
-    <updated>2024-10-20T20:10:44+08:00</updated>
+    <updated>2024-10-21T17:50:46+08:00</updated>
     <author>
         <name>XYZ</name>
     </author>
@@ -23,7 +23,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://xyz-fbw.github.io/media/posts/13/Screenshot-from-2024-10-20-18-45-07.jpg" alt="" />
-                    情况描述 输入时和Rename窗口情况一致 在输入拼音选中中文后，英文字母不消失问题在Rename窗口中出现，但不影响正常使用，但是会影响到其他GTK图形界面应用，例如Text Editor Gnome Terminal，Chrome等App无法输入：在正常使用的情况下，频率大概为1天1次的情况出现，就是其他界面正常 解决方案 删除配置文件。后果：新建文件的名字在重命名时需要变为中文只能在别的地方打出来再复制。 更换所有GTK应用为QT应用。后果：依然会出现终端不能输入问题。 删除配置文件后不使用Gnome自带文件管理器，例如Ranger。后果：文件管理没有图形界面不直观。 推荐不使用中文命名的，例如写代码的（Java项目中文件名需要在程序中，所以全部英文命名）使用第一个办法 推荐喜欢终端界面管理文件的使用第三种（有些人还是喜欢递进列表形式的）
+                    情况描述 输入时和Rename窗口情况一致 在输入拼音选中中文后，英文字母不消失问题在Rename窗口中出现，但不影响正常使用，但是会影响到其他GTK图形界面应用，例如Text Editor Gnome Terminal App无法输入：在正常使用的情况下，频率大概为1天1次的情况出现，其他界面正常 解决方案 删除配置文件。后果：新建文件的名字在重命名时需要变为中文只能在别的地方打出来再复制。 更换所有GTK应用为QT应用。后果：依然会出现终端不能输入问题。 删除配置文件后不使用Gnome自带文件管理器，例如Ranger。后果：文件管理没有图形界面不直观。 推荐不使用中文命名的，例如写代码的（Java项目中文件名需要在程序中，所以全部英文命名）使用第一个办法&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -37,7 +37,7 @@
 <figure class="post__image"><img loading="lazy"  src="https://xyz-fbw.github.io/media/posts/13/Screenshot-from-2024-10-20-18-45-07-2.jpg" alt="" width="822" height="642" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://xyz-fbw.github.io/media/posts/13/responsive/Screenshot-from-2024-10-20-18-45-07-2-xs.webp 300w ,https://xyz-fbw.github.io/media/posts/13/responsive/Screenshot-from-2024-10-20-18-45-07-2-sm.webp 480w ,https://xyz-fbw.github.io/media/posts/13/responsive/Screenshot-from-2024-10-20-18-45-07-2-md.webp 768w ,https://xyz-fbw.github.io/media/posts/13/responsive/Screenshot-from-2024-10-20-18-45-07-2-lg.webp 1024w"></figure>
 <p>在输入拼音选中中文后，英文字母不消失问题在Rename窗口中出现，但不影响正常使用，但是会影响到其他GTK图形界面应用，例如Text Editor</p>
 <ul>
-<li>Gnome Terminal，Chrome等App无法输入：在正常使用的情况下，频率大概为1天1次的情况出现，就是其他界面正常</li>
+<li>Gnome Terminal  App无法输入：在正常使用的情况下，频率大概为1天1次的情况出现，其他界面正常</li>
 </ul>
 <h1>解决方案 <br><br></h1>
 <ul>
