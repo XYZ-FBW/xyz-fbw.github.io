@@ -3,7 +3,7 @@
     <title>The Blog Of XYZ</title>
     <link href="https://xyz-fbw.github.io/feed.xml" rel="self" />
     <link href="https://xyz-fbw.github.io" />
-    <updated>2024-10-22T21:06:10+08:00</updated>
+    <updated>2024-10-22T21:48:55+08:00</updated>
     <author>
         <name>XYZ</name>
     </author>
@@ -36,7 +36,7 @@
 </ol>
 <h1>看法</h1>
 <ol>
-<li>交互逻辑                                                                                                                              从Gnome47的文件管理不难看出是想使用苹果Mac OS的Home目录为根目录的逻辑，从一定程度上讲确实会使用户的理解和体验更好，但是Fedora忽略了自己的产品定位，从一定程度上讲就是逻辑改动过大。这其实很好理解，本来用户熟悉根目录是什么东西，现在突然消失，老用户会十分不适应，就像Windows在以前是有很多块硬盘的，但是现在使用苹果的逻辑只有一块硬盘，就会让老用户去分盘，加之系统体积增加，C盘会红的更快，就会是他们更加卖力的分盘，用户适应之后也就不会花时间去学习了，毕竟成本太高了。（给一张Ubuntu24.04的Terminal，可以看到是Gnome3遗留的版本从02年开始就没有变过，确实会方便用户熟悉并使用。）<figure class="post__image"><img loading="lazy"  src="https://xyz-fbw.github.io/media/posts/14/Screenshot-from-2024-10-22-20-40-28.avif" alt="" width="480" height="489"></figure></li>
+<li>交互逻辑                                                                                                                              从Gnome47的文件管理不难看出是想使用苹果Mac OS的Home目录为根目录的逻辑，从一定程度上讲确实会使普通用户的理解和体验更好，但是Linux毕竟还是一个服务开发人员和科研人员的系统平台，UI界面只是为了更加直观的去操作系统完成指令，这个改动其实不如Ubuntu在下图一直保持终端为Gnome3当时的版本，方便编译人员进行使用。<figure class="post__image"><img loading="lazy"  src="https://xyz-fbw.github.io/media/posts/14/Screenshot-from-2024-10-22-20-40-28.avif" alt="" width="480" height="489"></figure></li>
 <li>UI界面                                                                                                                                我个人只是认为没改全，看看后面会不会有更好的效果。</li>
 </ol>
 <p> </p>
