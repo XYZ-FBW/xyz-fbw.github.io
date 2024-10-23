@@ -3,12 +3,57 @@
     <title>The Blog Of XYZ</title>
     <link href="https://xyz-fbw.github.io/feed.xml" rel="self" />
     <link href="https://xyz-fbw.github.io" />
-    <updated>2024-10-23T19:04:41+08:00</updated>
+    <updated>2024-10-23T21:27:42+08:00</updated>
     <author>
         <name>XYZ</name>
     </author>
     <id>https://xyz-fbw.github.io</id>
 
+    <entry>
+        <title>Qualcomm发布Snapdragon8Elite处理器</title>
+        <author>
+            <name>XYZ</name>
+        </author>
+        <link href="https://xyz-fbw.github.io/qualcommfa-bu-snapdragon8elitechu-li-qi.html"/>
+        <id>https://xyz-fbw.github.io/qualcommfa-bu-snapdragon8elitechu-li-qi.html</id>
+        <media:content url="https://xyz-fbw.github.io/media/posts/15/Scf985be8-c82f-4b01-8902-4fd08a5f2fdd.webp" medium="image" />
+            <category term="Discoveries"/>
+
+        <updated>2024-10-23T21:27:42+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://xyz-fbw.github.io/media/posts/15/Scf985be8-c82f-4b01-8902-4fd08a5f2fdd.webp" alt="" />
+                    CPU 其CPU采用高通自研的Oryon架构，骁龙8至尊版基于台积电第二代3nm制程工艺，而在核心数量上将全部小核心取消，采用包括2颗主频达到4.32GHz的超大核以及6颗3.53GHz大核的性能核心，各拥有12MB L2缓存。 值得注意的是，这次骁龙8至尊版的超大核主频来到了4.32GHz，甚至达到了PC级，官宣CPU单核性能提升45%，多核性能提升45%，浏览器性能提升62%之高，并且功耗降低44%。 说人话就是达到相同性能，所使用的功率更低，续航表现更好，能耗更低。 GPU GPU相比上一代8Gen3有40%性能与能效提升 全新Adreno GPU设计也有很大变化，采用了切片架构，内部渲染单元分成三个独立的切片，其中每个切片都可以运行在对应主频，因此按照不同工作负载可以动态调配，实现GPU性能灵活调度，提升能效。 另外，高通还专为GPU预留了12MB的内存，从而在数据传输交互时减少对系统内存的访问调用，也能降低功耗延时以及对系统内存的占用。 在游戏方面有相当出色的游戏表现，不怕撞到厂商的温控墙而被迫降低帧率和亮度来维持续航水平，以下是在三款移动端高负载的游戏上的性能和功耗表现（数据来自于极客湾）
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://xyz-fbw.github.io/media/posts/15/Scf985be8-c82f-4b01-8902-4fd08a5f2fdd.webp" class="type:primaryImage" alt="" /></p>
+                <div>
+<h1>CPU</h1>
+<div>其CPU采用高通自研的Oryon架构，骁龙8至尊版基于台积电第二代3nm制程工艺，而在核心数量上将全部小核心取消，采用包括2颗主频达到4.32GHz的超大核以及6颗3.53GHz大核的性能核心，各拥有12MB L2缓存。</div>
+<div><figure class="post__image"><img loading="lazy"  src="https://xyz-fbw.github.io/media/posts/15/fbb6a016-a5ae-47fa-a9c5-1e8a275ef7e6.avif" alt="" width="1267" height="642"></figure></div>
+<div>
+<div>
+<div>值得注意的是，这次骁龙8至尊版的超大核主频来到了4.32GHz，甚至达到了PC级，官宣CPU单核性能提升45%，多核性能提升45%，浏览器性能提升62%之高，并且功耗降低44%。</div>
+<div>说人话就是达到相同性能，所使用的功率更低，续航表现更好，能耗更低。</div>
+<h1>GPU</h1>
+<figure class="post__image"><img loading="lazy"  src="https://xyz-fbw.github.io/media/posts/15/6aa70cf7-84b2-458b-b69a-3c80c5af830e-2.avif" alt="" width="1269" height="633"></figure>
+<p>GPU相比上一代8Gen3有40%性能与能效提升</p>
+<p>全新Adreno GPU设计也有很大变化，采用了切片架构，内部渲染单元分成三个独立的切片，其中每个切片都可以运行在对应主频，因此按照不同工作负载可以动态调配，实现GPU性能灵活调度，提升能效。</p>
+<p>另外，高通还专为GPU预留了12MB的内存，从而在数据传输交互时减少对系统内存的访问调用，也能降低功耗延时以及对系统内存的占用。</p>
+<p>在游戏方面有相当出色的游戏表现，不怕撞到厂商的温控墙而被迫降低帧率和亮度来维持续航水平，以下是在三款移动端高负载的游戏上的性能和功耗表现（<strong><span style="color: #ba372a;">数据来自于极客湾</span></strong>）</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://xyz-fbw.github.io/media/posts/15/gallery/Screenshot_2024-10-22-17-50-36-018_tv.danmaku.bili-2.jpg" data-size="2460x1080"><img loading="lazy" src="https://xyz-fbw.github.io/media/posts/15/gallery/Screenshot_2024-10-22-17-50-36-018_tv.danmaku.bili-2-thumbnail.webp" alt="" width="768" height="337"></a></figure>
+<figure class="gallery__item"><a href="https://xyz-fbw.github.io/media/posts/15/gallery/Screenshot_2024-10-22-17-50-28-284_tv.danmaku.bili-2.jpg" data-size="2460x1080"><img loading="lazy" src="https://xyz-fbw.github.io/media/posts/15/gallery/Screenshot_2024-10-22-17-50-28-284_tv.danmaku.bili-2-thumbnail.webp" alt="" width="768" height="337"></a></figure>
+<figure class="gallery__item"><a href="https://xyz-fbw.github.io/media/posts/15/gallery/Screenshot_2024-10-22-17-50-12-958_tv.danmaku.bili-2.jpg" data-size="2460x1080"><img loading="lazy" src="https://xyz-fbw.github.io/media/posts/15/gallery/Screenshot_2024-10-22-17-50-12-958_tv.danmaku.bili-2-thumbnail.webp" alt="" width="768" height="337"></a></figure>
+</div></div>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Gnome 47改变与看法</title>
         <author>
