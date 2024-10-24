@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://xyz-fbw.github.io/linuxfa-xing-ban-jie-ya-suo-ruan-jian-xarchivertui-jian.html",
+            "url": "https://xyz-fbw.github.io/linuxfa-xing-ban-jie-ya-suo-ruan-jian-xarchivertui-jian.html",
+            "title": "Linux发行版解压缩软件Xarchiver推荐",
+            "summary": "可以弥补Ubuntu等默认Gnome桌面解压软件的缺失，类似于.img.xz格式的文件都可解压。 KDE桌面还是建议使用默认的Ark，兼容性会更好一些。",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://xyz-fbw.github.io/media/posts/16/Screenshot-from-2024-10-25-05-04-58.jpg\" alt=\"\" width=\"652\" height=\"489\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://xyz-fbw.github.io/media/posts/16/responsive/Screenshot-from-2024-10-25-05-04-58-xs.webp 300w ,https://xyz-fbw.github.io/media/posts/16/responsive/Screenshot-from-2024-10-25-05-04-58-sm.webp 480w ,https://xyz-fbw.github.io/media/posts/16/responsive/Screenshot-from-2024-10-25-05-04-58-md.webp 768w ,https://xyz-fbw.github.io/media/posts/16/responsive/Screenshot-from-2024-10-25-05-04-58-lg.webp 1024w\"></figure>\n<p>可以弥补Ubuntu等默认Gnome桌面解压软件的缺失，类似于.img.xz格式的文件都可解压。</p>\n<p>KDE桌面还是建议使用默认的Ark，兼容性会更好一些。</p>",
+            "image": "https://xyz-fbw.github.io/media/posts/16/Screenshot-from-2024-10-25-05-04-58-2.jpg",
+            "author": {
+                "name": "XYZ"
+            },
+            "tags": [
+                   "Discoveries"
+            ],
+            "date_published": "2024-10-25T05:16:49+08:00",
+            "date_modified": "2024-10-25T05:16:49+08:00"
+        },
+        {
             "id": "https://xyz-fbw.github.io/qualcommfa-bu-snapdragon8elitechu-li-qi.html",
             "url": "https://xyz-fbw.github.io/qualcommfa-bu-snapdragon8elitechu-li-qi.html",
             "title": "Qualcomm发布Snapdragon8Elite处理器",
