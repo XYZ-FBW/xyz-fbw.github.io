@@ -3,7 +3,7 @@
     <title>The Blog Of XYZ</title>
     <link href="https://xyz-fbw.github.io/feed.xml" rel="self" />
     <link href="https://xyz-fbw.github.io" />
-    <updated>2024-10-25T05:16:49+08:00</updated>
+    <updated>2024-10-25T05:20:23+08:00</updated>
     <author>
         <name>XYZ</name>
     </author>
@@ -23,14 +23,14 @@
             <summary>
                 <![CDATA[
                         <img src="https://xyz-fbw.github.io/media/posts/16/Screenshot-from-2024-10-25-05-04-58-2.jpg" alt="" />
-                    可以弥补Ubuntu等默认Gnome桌面解压软件的缺失，类似于.img.xz格式的文件都可解压。 KDE桌面还是建议使用默认的Ark，兼容性会更好一些。
+                    可以弥补Ubuntu等默认Gnome桌面解压软件的缺失，类似于.img.xz格式的文件可解压成img格式的镜像文件，而Gnome只可以烧录，无法解压。 KDE桌面还是建议使用默认的Ark，兼容性会更好一些。
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://xyz-fbw.github.io/media/posts/16/Screenshot-from-2024-10-25-05-04-58-2.jpg" class="type:primaryImage" alt="" /></p>
                 <figure class="post__image"><img loading="lazy"  src="https://xyz-fbw.github.io/media/posts/16/Screenshot-from-2024-10-25-05-04-58.jpg" alt="" width="652" height="489" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://xyz-fbw.github.io/media/posts/16/responsive/Screenshot-from-2024-10-25-05-04-58-xs.webp 300w ,https://xyz-fbw.github.io/media/posts/16/responsive/Screenshot-from-2024-10-25-05-04-58-sm.webp 480w ,https://xyz-fbw.github.io/media/posts/16/responsive/Screenshot-from-2024-10-25-05-04-58-md.webp 768w ,https://xyz-fbw.github.io/media/posts/16/responsive/Screenshot-from-2024-10-25-05-04-58-lg.webp 1024w"></figure>
-<p>可以弥补Ubuntu等默认Gnome桌面解压软件的缺失，类似于.img.xz格式的文件都可解压。</p>
+<p>可以弥补Ubuntu等默认Gnome桌面解压软件的缺失，类似于.img.xz格式的文件可解压成img格式的镜像文件，而Gnome只可以烧录，无法解压。</p>
 <p>KDE桌面还是建议使用默认的Ark，兼容性会更好一些。</p>
             ]]>
         </content>
