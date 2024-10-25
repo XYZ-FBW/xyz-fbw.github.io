@@ -3,7 +3,7 @@
     <title>The Blog Of XYZ</title>
     <link href="https://xyz-fbw.github.io/feed.xml" rel="self" />
     <link href="https://xyz-fbw.github.io" />
-    <updated>2024-10-26T04:42:16+08:00</updated>
+    <updated>2024-10-26T04:47:58+08:00</updated>
     <author>
         <name>XYZ</name>
     </author>
@@ -59,9 +59,9 @@
 <h1>科技点评</h1>
 <ul>
 <li>
-<p><strong>Xiaomi Hyper OS 2.0                                                                                                 </strong>我也是Hyper OS的老用户了，就说一说Hyper OS的一些使用感受。Hyper OS APP的打断动画流畅并不是使用系统动画形成的，这个可以试一试，在设置里面找到辅助功能 ——&gt; 视觉 ——&gt; 移除动画，然后连续进行打开和退出，你会发现打开APP的时候已经有了动画，但是如果中间有间隔，APP是直接闪现到全屏的，如果进入开发人员选项将动画速率调慢，对APP的打开和关闭是不受影响的，也就是说系统桌面只有选择小米不定时推送的更新或者桌面升级才有可能提升体验。</p>
+<p><strong>Xiaomi Hyper OS 2.0                                                                                                </strong>我也是Hyper OS的老用户了，就说一说Hyper OS的一些使用感受。Hyper OS APP的打断动画流畅并不是使用系统动画形成的，这个可以试一试，在设置里面找到辅助功能 ——&gt; 视觉 ——&gt; 移除动画，然后连续进行打开和退出，你会发现打开APP的时候已经有了动画，但是如果中间有间隔，APP是直接闪现到全屏的，如果进入开发人员选项将动画速率调慢，对APP的打开和关闭是不受影响的，也就是说系统桌面只有选择小米不定时推送的更新或者桌面升级才有可能提升体验。</p>
 </li>
-<li><strong>AI系统</strong>                                                                                                                         荣耀在高通的发布会上演示了在Magic7上让语音助手点外卖来展示8Elite的AI性能，现在放眼望去PC已经是AIPC时代，手机厂商也都在说自己家的系统的AI优点，OPPO的流体云，Vivo的蓝心小V等等。Fyde OS，UOS，Deepin等系统也开始加入AI，似乎重复繁琐的工作宁可让AI替代也不能用Gnome的简化UI的方式解决，感觉完全无法理解。</li>
+<li><strong>AI系统</strong>                                                                                                                                荣耀在高通的发布会上演示了在Magic7上让语音助手点外卖来展示8Elite的AI性能，现在放眼望去PC已经是AIPC时代，手机厂商也都在说自己家的系统的AI优点，OPPO的流体云，Vivo的蓝心小V等等。Fyde OS，UOS，Deepin等系统也开始加入AI，似乎重复繁琐的工作宁可让AI替代也不能用Gnome的简化UI的方式解决，感觉完全无法理解。</li>
 </ul>
             ]]>
         </content>
