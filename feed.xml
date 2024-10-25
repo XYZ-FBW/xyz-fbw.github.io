@@ -3,7 +3,7 @@
     <title>The Blog Of XYZ</title>
     <link href="https://xyz-fbw.github.io/feed.xml" rel="self" />
     <link href="https://xyz-fbw.github.io" />
-    <updated>2024-10-26T04:47:58+08:00</updated>
+    <updated>2024-10-26T05:05:35+08:00</updated>
     <author>
         <name>XYZ</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://xyz-fbw.github.io/ke-ji-zhou-kan.html"/>
         <id>https://xyz-fbw.github.io/ke-ji-zhou-kan.html</id>
         <media:content url="https://xyz-fbw.github.io/media/posts/18/R-C.jpg" medium="image" />
+            <category term="Weekly"/>
 
         <updated>2024-10-26T03:15:58+08:00</updated>
             <summary>
