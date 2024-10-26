@@ -12,7 +12,7 @@
         {
             "id": "https://xyz-fbw.github.io/marktext-kai-yuanquan-neng-de-markdownwen-dang-bian-ji-qi.html",
             "url": "https://xyz-fbw.github.io/marktext-kai-yuanquan-neng-de-markdownwen-dang-bian-ji-qi.html",
-            "title": "MarkText —— 开源，全能的Markdown文档编辑器",
+            "title": "MarkText —— 开源，轻量级Markdown文档编辑器",
             "summary": "下载 这是我在逛Ubuntu App Store时发现的，随后看了一下官网，Windows和Mac可以下载使用，Linux端只提供Appimage格式，如果不是为了随身携带还是推荐使用Snap的包或者Flatpak的包。实在不行转换成deb或者rpm的包也是可以的。 在Markdown文档的处理上非常不错，有及时的预览功能，并非VSCode上的两边对照方式，观感更直接。 导出格式有限，只有两种，对我来说已经足够用了。",
             "content_html": "<h1>下载</h1>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://xyz-fbw.github.io/media/posts/19/gallery/Screenshot-from-2024-10-26-15-25-40.png\" data-size=\"1384x904\"><img loading=\"lazy\" src=\"https://xyz-fbw.github.io/media/posts/19/gallery/Screenshot-from-2024-10-26-15-25-40-thumbnail.webp\" alt=\"\" width=\"768\" height=\"502\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://xyz-fbw.github.io/media/posts/19/gallery/Screenshot-from-2024-10-26-15-28-09.png\" data-size=\"1854x1048\"><img loading=\"lazy\" src=\"https://xyz-fbw.github.io/media/posts/19/gallery/Screenshot-from-2024-10-26-15-28-09-thumbnail.webp\" alt=\"\" width=\"768\" height=\"434\"></a></figure>\n</div></div>\n<p>这是我在逛Ubuntu App Store时发现的，随后看了一下官网，Windows和Mac可以下载使用，Linux端只提供Appimage格式，如果不是为了随身携带还是推荐使用Snap的包或者Flatpak的包。实在不行转换成deb或者rpm的包也是可以的。</p>\n<h1>使用实测</h1>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://xyz-fbw.github.io/media/posts/19/Screenshot-from-2024-10-26-15-29-12.avif\" alt=\"\" width=\"1200\" height=\"800\"></figure>\n<p>在Markdown文档的处理上非常不错，有及时的预览功能，并非VSCode上的两边对照方式，观感更直接。</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://xyz-fbw.github.io/media/posts/19/Screenshot-from-2024-10-26-15-36-32.avif\" alt=\"\" width=\"1180\" height=\"783\"></figure>\n<p>导出格式有限，只有两种，对我来说已经足够用了。</p>",
             "image": "https://xyz-fbw.github.io/media/posts/19/Screenshot-from-2024-10-26-15-29-12.jpg",
@@ -23,7 +23,7 @@
                    "Discoveries"
             ],
             "date_published": "2024-10-26T15:45:46+08:00",
-            "date_modified": "2024-10-26T15:45:46+08:00"
+            "date_modified": "2024-10-26T15:53:17+08:00"
         },
         {
             "id": "https://xyz-fbw.github.io/ke-ji-zhou-kan.html",
