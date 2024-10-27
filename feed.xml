@@ -3,7 +3,7 @@
     <title>The Blog Of XYZ</title>
     <link href="https://xyz-fbw.github.io/feed.xml" rel="self" />
     <link href="https://xyz-fbw.github.io" />
-    <updated>2024-10-26T15:54:01+08:00</updated>
+    <updated>2024-10-27T10:51:56+08:00</updated>
     <author>
         <name>XYZ</name>
     </author>
@@ -94,7 +94,7 @@
 <h1>科技点评</h1>
 <ul>
 <li>
-<p><strong>Xiaomi Hyper OS 2.0                                                                                                </strong>我也是Hyper OS的老用户了，就说一说Hyper OS的一些使用感受。Hyper OS APP的打断动画流畅并不是使用系统动画形成的，这个可以试一试，在设置里面找到辅助功能 ——&gt; 视觉 ——&gt; 移除动画，然后连续进行打开和退出，你会发现打开APP的时候已经有了动画，但是如果中间有间隔，APP是直接闪现到全屏的，如果进入开发人员选项将动画速率调慢，对APP的打开和关闭是不受影响的，也就是说系统桌面只有选择小米不定时推送的更新或者桌面升级才有可能提升体验。</p>
+<p><strong>Xiaomi Hyper OS 2.0                                                                                                </strong>我也是Hyper OS的老用户了，就说一说Hyper OS的一些使用感受。Hyper OS APP的打断动画流畅并不是使用系统动画形成的，这个可以试一试，在设置里面找到辅助功能 ——&gt; 视觉 ——&gt; 移除动画，然后连续进行打开和退出，你会发现打开APP的时候已经有了动画，但是如果中间有间隔，APP是直接闪现到全屏的，如果进入开发人员选项将动画速率调慢，对APP的打开和关闭是不受影响的，也就是说系统桌面只有选择小米不定时推送的更新或者桌面升级才有可能提升体验。                                   但是这一次Hyper OS 2.0的提升可谓是非常大。在极客湾的视频中，讲到了一个现在Xiaomi的一个关键问题——IPC。实现这个功能就采用了一个全新的调度器——HyperCore，下图是开启和关闭调度器的区别<figure class="post__image"><img  src="https://xyz-fbw.github.io/media/posts/18/Xiaomi-Hyper-OS-2.0-Test3.avif" alt="" width="2460" height="1080"></figure> 不仅CPU的频率从1.99GHz降低到1.33GHz，而执行的指令数却是相同的，也就提升了IPC。IPC翻译成中文是每周期执行的指令数，而在CPU运行的时候并不会一直在做任务，因为内存没有办法在CPU上一个完成的时候提升频率将下一个任内务推给CPU去处理，所以CPU就会有一段时间以很高的频率运行但是不执行任何任务，也被叫做<strong>CPU空转</strong>。Hyper Core这次就能在CPU处理一个任务完成后降低CPU频率，提升内存频率。CPU的消耗资源减少，内存速度提升，任务完成的更快了。      在内存分配机制上也有不小的优化，APP在启动的时候会向操作系统申请内存，但并不是APP需要多少就给多少，操作系统管理内存是使用<strong>内存页</strong>的，在以往的系统中默认固定为4K，如果有一个APP启动需要128K，那么就要申请32个内存页，效率非常低，Hyper OS 2.0就引入了动态内存页，为不同需求动态分为4K，16K，32K和64K，现在需要申请128K就只需要2个64K的内存页，效率提高了很多。        在视觉体验上，高斯模糊可以提升系统的精致感，但是也十分消耗GPU的资源，这次Hyper OS 2.0直接将高斯模糊替换成GPU在渲染过程中的Mipmap融合起来，可以理解成当前渲染的缩略图融合起来，而且显示起来并没有割裂感。<figure class="post__image"><img loading="lazy"  src="https://xyz-fbw.github.io/media/posts/18/Xiaomi-Hyper-OS-2.0-Test1.avif" alt="" width="2460" height="1080"></figure> 这些就是Hyper Core的一些优化点，有兴趣的可以自己深入研究。</p>
 </li>
 <li><strong>AI系统</strong>                                                                                                                                荣耀在高通的发布会上演示了在Magic7上让语音助手点外卖来展示8Elite的AI性能，现在放眼望去PC已经是AIPC时代，手机厂商也都在说自己家的系统的AI优点，OPPO的流体云，Vivo的蓝心小V等等。Fyde OS，UOS，Deepin等系统也开始加入AI，似乎重复繁琐的工作宁可让AI替代也不能用Gnome的简化UI的方式解决，感觉完全无法理解。</li>
 </ul>
