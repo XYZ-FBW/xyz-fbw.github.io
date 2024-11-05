@@ -3,12 +3,41 @@
     <title>XYZ</title>
     <link href="https://xyz-fbw.github.io/feed.xml" rel="self" />
     <link href="https://xyz-fbw.github.io" />
-    <updated>2024-11-04T21:40:34+08:00</updated>
+    <updated>2024-11-05T22:06:49+08:00</updated>
     <author>
         <name>XYZ</name>
     </author>
     <id>https://xyz-fbw.github.io</id>
 
+    <entry>
+        <title>Linux省电配置——TLP</title>
+        <author>
+            <name>XYZ</name>
+        </author>
+        <link href="https://xyz-fbw.github.io/linuxsheng-dian-pei-zhi-tlp.html"/>
+        <id>https://xyz-fbw.github.io/linuxsheng-dian-pei-zhi-tlp.html</id>
+        <media:content url="https://xyz-fbw.github.io/media/posts/3/Ping-Mu-Jie-Tu_20241105_220518.jpg" medium="image" />
+            <category term="Linux探索记录"/>
+
+        <updated>2024-11-05T22:03:20+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://xyz-fbw.github.io/media/posts/3/Ping-Mu-Jie-Tu_20241105_220518.jpg" alt="" />
+                    安装 Debian/Ubuntu： sudo apt install tlp tlp-rdw Fedora/RHEL： sudo dnf install tlp&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://xyz-fbw.github.io/media/posts/3/Ping-Mu-Jie-Tu_20241105_220518.jpg" class="type:primaryImage" alt="" /></p>
+                <h2 id="安装">安装</h2>
+<p><strong>Debian/Ubuntu：</strong></p><p><code>sudo apt install tlp tlp-rdw</code></p><p><strong>Fedora/RHEL：</strong></p><p><code>sudo dnf install tlp tlp-rdw</code></p><p><strong>Arch/Manjaro：</strong></p><p><code>sudo pacman -S tlp tlp-rdw</code></p><h2 id="配置">配置</h2>
+<h3 id="启动">启动</h3>
+<p>启动tlp程序</p><p><code>systemctl start tlp</code></p><p><code>systemctl enable tlp</code></p><p>如果安装了tlp-rdw，可以开启网络的节能</p><p><code>systemctl start NetworkManager-dispatcher</code></p><p><code>systemctl enable NetworkManager-dispatcher</code></p><p>这个时候需要禁用一个套接字和服务（冲突）</p><p><code>systemctl mask systemd-rfkill.socket systemd-rfkill.service</code></p><h3 id="配置文件">配置文件</h3>
+<h4 id="配置文件位置在etctlpconf，因为版本不同会有配置文件差异，这里不做个人配置文件展示">配置文件位置在/etc/tlp.conf，因为版本不同会有配置文件差异，这里不做个人配置文件展示</h4>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Fedora Linux 41 &amp; KDE Plasma 6.2.2</title>
         <author>
