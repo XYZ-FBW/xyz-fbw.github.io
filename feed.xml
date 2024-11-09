@@ -3,12 +3,38 @@
     <title>XYZ</title>
     <link href="https://xyz-fbw.github.io/feed.xml" rel="self" />
     <link href="https://xyz-fbw.github.io" />
-    <updated>2024-11-05T22:06:49+08:00</updated>
+    <updated>2024-11-09T23:51:31+08:00</updated>
     <author>
         <name>XYZ</name>
     </author>
     <id>https://xyz-fbw.github.io</id>
 
+    <entry>
+        <title>环境变量</title>
+        <author>
+            <name>XYZ</name>
+        </author>
+        <link href="https://xyz-fbw.github.io/huan-jing-bian-liang.html"/>
+        <id>https://xyz-fbw.github.io/huan-jing-bian-liang.html</id>
+        <media:content url="https://xyz-fbw.github.io/media/posts/4/Screenshot_20241109_233003.png" medium="image" />
+            <category term="Linux探索记录"/>
+
+        <updated>2024-11-09T23:26:19+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://xyz-fbw.github.io/media/posts/4/Screenshot_20241109_233003.png" alt="" />
+                    问题描述 使用Fedora的时候需要使用flatpak进行部分应用的扩展，例如QQ和微信，但是我的系统是英文的（单纯电脑显示器分辨率不够，看中文没有手机效果好，干脆换成英文），就会导致很多flatpak中的中文应用出现字体问题 更改环境变量为中文简体即可 sudo flatpak override --env=LC_ALL=zh_CN.UTF-8
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://xyz-fbw.github.io/media/posts/4/Screenshot_20241109_233003.png" class="type:primaryImage" alt="" /></p>
+                <h1 id="问题描述">问题描述</h1>
+<p>使用Fedora的时候需要使用flatpak进行部分应用的扩展，例如QQ和微信，但是我的系统是英文的（单纯电脑显示器分辨率不够，看中文没有手机效果好，干脆换成英文），就会导致很多flatpak中的中文应用出现字体问题</p><h1 id="解决方法">解决方法</h1>
+<p>更改环境变量为中文简体即可</p><p><code>sudo flatpak override --env=LC_ALL=zh_CN.UTF-8</code></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Linux省电配置——TLP</title>
         <author>
