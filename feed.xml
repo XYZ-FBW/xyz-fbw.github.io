@@ -3,7 +3,7 @@
     <title>XYZ</title>
     <link href="https://xyz-fbw.github.io/feed.xml" rel="self" />
     <link href="https://xyz-fbw.github.io" />
-    <updated>2024-11-10T01:14:02+08:00</updated>
+    <updated>2024-11-11T17:41:31+08:00</updated>
     <author>
         <name>XYZ</name>
     </author>
@@ -116,13 +116,14 @@
             <summary>
                 <![CDATA[
                         <img src="https://xyz-fbw.github.io/media/posts/1/OIP-C.jpeg" alt="" />
-                    程序运行逻辑 在Python中没有函数的层级关系，例如主函数和其他函数等关系（主函数与用户定义函数之间的关系）。 示例程序： def output(): print(&quot;Hello&quot;) return output() 执行结果： Hello 程序分析： def为用户定义函数。Python模糊主函数概念，用户定义函数在定义之后才可引用。&hellip;
+                    一、Python的运行和控制 程序运行逻辑 在Python中没有函数的层级关系，例如主函数和其他函数等关系（主函数与用户定义函数之间的关系）。 示例程序： def output(): print(&quot;Hello&quot;) return output() 执行结果： Hello 程序分析：&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://xyz-fbw.github.io/media/posts/1/OIP-C.jpeg" class="type:primaryImage" alt="" /></p>
-                <h2 id="程序运行逻辑">程序运行逻辑</h2>
+                <h1 id="一、python的运行和控制">一、Python的运行和控制</h1>
+<h2 id="程序运行逻辑">程序运行逻辑</h2>
 <p>在Python中没有函数的层级关系，例如主函数和其他函数等关系（主函数与用户定义函数之间的关系）。</p><hr>
 <p><em><strong>示例程序</strong></em>：</p><pre><code class="language-python">def output():
     print(&quot;Hello&quot;)
@@ -161,13 +162,13 @@ print(&quot;Your input is&quot;,x)
 </ol>
 <hr>
 <h2 id="判断语句ifelse">判断语句——if……else……</h2>
-<p><em><strong>示例程序</strong></em></p><p><strong>标准语句</strong></p><pre><code class="language-python">x = input(&quot;Please input a number&quot;)
+<p><em><strong>示例程序</strong></em></p><p><strong>标准语句</strong></p><pre><code class="language-python">x = int（input(&quot;Please input a number&quot;)）
 if x == 1:
     print(&quot;You are right&quot;)
 else:
     print(&quot;Maybe there is something Wrong&quot;)
 </code></pre>
-<p>执行结果</p><p><code>输入1：输出 You are right </code></p><p><code>输入非1的内容：输出 Maybe there is something wrong</code></p><p><strong>添加elif</strong></p><pre><code class="language-python">x = input(&quot;Please input a number&quot;)
+<p>执行结果</p><p><code>输入1：输出 You are right </code></p><p><code>输入非1的内容：输出 Maybe there is something wrong</code></p><p><strong>添加elif</strong></p><pre><code class="language-python">x = int（input(&quot;Please input a number&quot;)）
 if x == 1:
     print(&quot;You are right&quot;)
 elif x == 2:
@@ -200,6 +201,15 @@ print(&quot;right&quot;)
 <p><em><strong>程序解读</strong></em></p><p><code>输入1：输出 You are right </code></p><p><code>输入非1的内容：重新输入</code></p><p><em><strong>语句语法格式</strong></em></p><pre><code class="language-python">while 判断条件(一般为相反):
     执行内容
 </code></pre>
+<h2 id="for循环">for循环</h2>
+<p><em><strong>示例程序</strong></em></p><pre><code class="language-python">for i in range(10):
+    print(i)
+</code></pre>
+<p><em><strong>程序解读</strong></em>
+<code>输出0-9</code>
+当使用for循环时，需要使用range函数，range函数的作用是生成一个数字序列，例如range(10)生成一个0-9的数字序列。<strong>用于代替while函数进行重复性质的循环</strong></p><p><em><strong>语句语法格式</strong></em></p><pre><code class="language-python">for 变量 in range(重复执行次数):
+    执行内容
+</code></pre>
 <p><strong>提升</strong>
 类似do……while……</p><pre><code class="language-python">secret_word = &quot;python&quot;
 counter = 0
@@ -212,6 +222,22 @@ while True:
     if word != secret_word and counter &gt; 7: 
         break
 </code></pre>
+<h1 id="二、数据类型">二、数据类型</h1>
+<h2 id="分类">分类</h2>
+<ul>
+<li>数字类型：整型 int，单精度浮点型 float，双精度浮点型 double</li>
+<li>字符串类型：字符串 str</li>
+</ul>
+<h2 id="数据类型转换">数据类型转换</h2>
+<h3 id="案例">案例</h3>
+<pre><code class="language-python">x = int(input(&quot;Please input a number&quot;))
+print(x)
+</code></pre>
+<p><strong>案例解释</strong></p><ul>
+<li>输入一个数字，<code>input()</code>函数使用的是字符型，进行比较需将其转换为整型</li>
+<li>输出整型数字</li>
+<li>字符型整形化<code>int(字符型变量)</code></li>
+</ul>
 
             ]]>
         </content>
