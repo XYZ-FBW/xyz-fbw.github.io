@@ -3,12 +3,43 @@
     <title>XYZ</title>
     <link href="https://xyz-fbw.github.io/feed.xml" rel="self" />
     <link href="https://xyz-fbw.github.io" />
-    <updated>2024-11-11T17:41:31+08:00</updated>
+    <updated>2024-12-01T11:46:34+08:00</updated>
     <author>
         <name>XYZ</name>
     </author>
     <id>https://xyz-fbw.github.io</id>
 
+    <entry>
+        <title>尝试过普遍的浏览器后，还是绕回了Edge</title>
+        <author>
+            <name>XYZ</name>
+        </author>
+        <link href="https://xyz-fbw.github.io/chang-shi-guo-pu-bian-de-liu-lan-qi-houhuan-shi-rao-hui-liao-edge.html"/>
+        <id>https://xyz-fbw.github.io/chang-shi-guo-pu-bian-de-liu-lan-qi-houhuan-shi-rao-hui-liao-edge.html</id>
+        <media:content url="https://xyz-fbw.github.io/media/posts/6/f3e19a0c33f1586d18fa72f0688d2798.jpg" medium="image" />
+            <category term="软件体验"/>
+
+        <updated>2024-12-01T09:55:07+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://xyz-fbw.github.io/media/posts/6/f3e19a0c33f1586d18fa72f0688d2798.jpg" alt="" />
+                    使用过的浏览器 在Edge刚刚推出的时候，我觉得这个浏览器十分的轻量，好用，关键是有非常多的插件可供选择。随着使用世间增加，我开始觉得Edge变的越来越臃肿。 为了轻量，我就开始使用Google Chrome浏览器，但是后来我发现Blink内核的浏览器他们在使用的时候都非常考验CPU的能力，甚至会使用部分GPU的资源。 为了解决这个问题，我决定换成Gecko内核的FireFox，正巧当时在使用Linux系统，当时就发现只使用很小一部分CPU资源就可以获得很出色的浏览网页的体验，于是我就在Windows系统上面也安装了FireFox浏览器，但是使用体验上还是差强人意，毕竟Windows对这些应用的电源配置不像tlp那么好。 Edge作为一款微软自家的浏览器，在Windows上面的管理策略相对其他的来说自然会好不少，而且在外观上比Chrome要多很多自定义的设置，就像是垂直标签页。 下面是我的Edge的外观：
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://xyz-fbw.github.io/media/posts/6/f3e19a0c33f1586d18fa72f0688d2798.jpg" class="type:primaryImage" alt="" /></p>
+                <h1>使用过的浏览器</h1>
+<p>在Edge刚刚推出的时候，我觉得这个浏览器十分的轻量，好用，关键是有非常多的插件可供选择。随着使用世间增加，我开始觉得Edge变的越来越臃肿。</p>
+<p>为了轻量，我就开始使用Google Chrome浏览器，但是后来我发现Blink内核的浏览器他们在使用的时候都非常考验CPU的能力，甚至会使用部分GPU的资源。</p>
+<p>为了解决这个问题，我决定换成Gecko内核的FireFox，正巧当时在使用Linux系统，当时就发现只使用很小一部分CPU资源就可以获得很出色的浏览网页的体验，于是我就在Windows系统上面也安装了FireFox浏览器，但是使用体验上还是差强人意，毕竟Windows对这些应用的电源配置不像tlp那么好。</p>
+<h1>换成Edge的原因</h1>
+<p>Edge作为一款微软自家的浏览器，在Windows上面的管理策略相对其他的来说自然会好不少，而且在外观上比Chrome要多很多自定义的设置，就像是垂直标签页。</p>
+<p>下面是我的Edge的外观：</p>
+<figure class="post__image"><img loading="lazy"  src="https://xyz-fbw.github.io/media/posts/6/f3e19a0c33f1586d18fa72f0688d2798.avif" alt="" width="1366" height="728"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>环境变量</title>
         <author>
